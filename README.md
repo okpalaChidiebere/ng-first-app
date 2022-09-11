@@ -8,11 +8,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Set up
 
-- Make sure you have Node installed in your system. If you are using Mac, you can install that with homebrew or using `nvm`
+- Make sure you have [Node](https://nodejs.dev/en/learn/how-to-install-nodejs/) installed in your system. If you are using Mac, you can install that with homebrew or using `nvm`
 - Install the angular-cli with `npm install @angular/cli -g` You will use this command to update your angular cli in the future too. `ng --version` to check the version. You can run `ng --help` too to see all commands
 - As of this time, the angular-cli supports node v16.10.0 So i had to use nvm to install this specific version running `nvm install 16.10.0` and `nvm use 16.10.0` after. So keep an eye. Each time you update the angula-cli you may have to switch up your node version :)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` to start the angular dev server of your app. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Further help
 
